@@ -17,6 +17,7 @@ package fr.utc.miage.shares;
 
 import java.util.Objects;
 
+//test
 /**
  * This class embeds thecommon behavior of any Action object.
  *
