@@ -19,7 +19,7 @@ import java.util.Objects;
 
 //test
 /**
- * This class embeds thecommon behavior of any Action object.
+ * 
  *
  * @author David Navarre &lt;David.Navarre at irit.fr&gt;
  */
